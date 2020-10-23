@@ -1,4 +1,4 @@
-# Strickland_Portfolio
+# Strickland_Projects
 ## Projects
 ### Project 1:Call Center performance analysis and visualization
 * Reformatted excel workbook used for rudimentary analysis
