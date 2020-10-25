@@ -19,8 +19,8 @@ well as resolve any reserved word conflicts.
 The program provides a GUI to input the desired table name and prompts for opening the source CSV file and the name and directory location of the newly created
 text file.
 
-The goal of the project was to provide a tool to quickly migrate files to a SQL database in instances where an import wizard was unavailable or would bog
-down creating large insert statements. After casting dtypes and asigning keys the .txt file can be saved as a .sql script and ran. 
+The goal of the project was to provide a tool to quickly migrate files to a SQL database in instances where an import wizard was unavailable or would become
+bogged down while creating large insert statements. After casting dtypes and asigning keys the .txt file can be saved as a .sql script and ran. 
 
 ![alt text](https://media.giphy.com/media/cYXoBXI8JRL4yeJhpp/giphy.gif)
 
