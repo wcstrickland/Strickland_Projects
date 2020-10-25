@@ -16,8 +16,11 @@ The program automatically determines column names by reading the first row of th
 or prohibited symbols, and then generates the values in SQL format. The resulting text file allows the user to cast data types, assign keys, or auto-incrementation as
 well as resolve any reserved word conflicts.
 
+The program provides a GUI to input the desired table name and prompts for opening the source CSV file and the name and directory location of the newly created
+text file.
+
 The goal of the project was to provide a tool to quickly migrate files to a SQL database in instances where an import wizard was unavailable or would bog
-down creating large insert statements.
+down creating large insert statements. After casting dtypes and asigning keys the .txt file can be saved as a .sql script and ran. 
 
 ![alt text](https://media.giphy.com/media/cYXoBXI8JRL4yeJhpp/giphy.gif)
 
