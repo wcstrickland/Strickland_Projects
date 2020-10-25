@@ -25,3 +25,20 @@ bogged down while creating large insert statements. After casting dtypes and asi
 ![alt text](https://media.giphy.com/media/cYXoBXI8JRL4yeJhpp/giphy.gif)
 
 
+# [Project 3: Rock Paper Scissors Game](https://github.com/wcstrickland/rock_paper_scissors)
+A simple graphical game of Rock Paper Scissors.
+
+I undertook this project using Tkinter rather than pygame as a means of learning how to draw GUI elements, create buttons, bind actions to buttons, and dynamically alter elements of the widget, based on user input. 
+
+This project improved my understanding of:
+*creating GUI elements
+*linking element behavior
+*controlling loop flow
+*calling on external image assets dynamically
+*the random module in the python standard library
+*using python nested dictionaries to evaluate input
+
+
+![alt text](https://media.giphy.com/media/5kQYqUcXHCKkGYBQNY/giphy.gif)
+
+
