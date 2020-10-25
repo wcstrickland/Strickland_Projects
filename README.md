@@ -9,8 +9,8 @@ Finally, exported data to tableau and created [interactive dashboard](https://pu
 ![alt text](https://media.giphy.com/media/LoZyUPDg7HZu2sgd5I/giphy.gif)
 
 
-# [Project 2: Convert CSV file to SQL insert statement](https://github.com/wcstrickland/call_center)
-A python script that converts an existing CSV file to an SQL insert statement
+# [Project 2: Convert CSV file to SQL insert statement](https://github.com/wcstrickland/csv_to_sql)
+A python script that converts an existing CSV file to an SQL insert statement.
 
 The program automatically determines column names by reading the first row of the CSV file, attempts to resolve any conflicts with SQL compatability such as whitespace,
 or prohibited symbols, and then generates the values in SQL format. 
