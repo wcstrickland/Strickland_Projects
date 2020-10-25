@@ -8,7 +8,7 @@ Finally, exported data to tableau and created [interactive dashboard](https://pu
 
 ![alt text](https://media.giphy.com/media/LoZyUPDg7HZu2sgd5I/giphy.gif)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 # [Project 2: Convert CSV file to SQL insert statement](https://github.com/wcstrickland/csv_to_sql)
 #### A python script that converts an existing CSV file to an SQL insert statement.
@@ -26,7 +26,7 @@ bogged down while creating large insert statements. After casting dtypes and asi
 ![alt text](https://media.giphy.com/media/cYXoBXI8JRL4yeJhpp/giphy.gif)
 
 
-
+---------------------------
 
 # [Project 3: Rock Paper Scissors Game](https://github.com/wcstrickland/rock_paper_scissors)
 #### A simple graphical game of Rock Paper Scissors.
