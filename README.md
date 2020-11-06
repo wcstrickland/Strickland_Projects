@@ -61,8 +61,8 @@ Created a simple static html page with  a brief description of the API’s endpo
 
 This project includes:
 - web scraping and html tags
-- outputing python results to a sqlite database
-- Flask, specifically estabilishing a connection to a database, establishing @app routes, and defining resources and underlying methods. 
+- outputting python results to a sqlite database
+- Flask, specifically establishing  a connection to a database, establishing @app routes, and defining resources and underlying methods. 
 - Writing raw SQL queries and relating them to python programs. 
 
 ![alt text](https://media.giphy.com/media/6gbaQ0YKszOySG5xPL/giphy.gif)
