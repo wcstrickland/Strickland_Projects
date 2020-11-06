@@ -48,7 +48,7 @@ This project improved my understanding of:
 
 
 # [Project 4: Web Scraper and REST API](https://github.com/wcstrickland/news_api)
-#### A REST API interfacing with a data base of JSON objects comprised of news articles scraped from a website
+#### A REST API interfacing with a data base of news articles scraped from a website in JSON like format.
 
 ##### Part 1
 Created a web scraping program that requests html from a major news outlet and then parses the request return via tags. 
