@@ -44,3 +44,26 @@ This project improved my understanding of:
 ![alt text](https://media.giphy.com/media/5kQYqUcXHCKkGYBQNY/giphy.gif)
 
 
+---------------------------
+
+
+# [Project 4: Web Scraper and REST API](https://github.com/wcstrickland/news_api)
+#### A REST API interfacing with a data base of JSON objects comprised of news articles scraped from a website
+
+##### Part 1
+Created a web scraping program that requests html from a major news outlet and then parses the request return via tags. 
+
+##### Part 2
+Created a front facing API that allows users to search the data base with high level of specificity through a series of endpoints. This api supports programming language interaction but can be searched via the URL in the browser by anyone.
+
+##### Phase 3 
+Created a simple static html page with  a brief description of the API’s endpoints and provided examples on how to properly use them. 
+
+This project includes:
+- web scraping and html tags
+- outputing python results to a sqlite database
+- Flask, specifically estabilishing a connection to a database, establishing @app routes, and defining resources and underlying methods. 
+- Writing raw SQL queries and relating them to python programs. 
+
+![alt text](https://media.giphy.com/media/6gbaQ0YKszOySG5xPL/giphy.gif)
+
