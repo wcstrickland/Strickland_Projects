@@ -65,5 +65,5 @@ This project includes:
 - Flask, specifically establishing  a connection to a database, establishing @app routes, and defining resources and underlying methods. 
 - Writing raw SQL queries and relating them to python programs. 
 
-![alt text](https://media.giphy.com/media/6gbaQ0YKszOySG5xPL/giphy.gif)
+![alt text](https://media.giphy.com/media/sJGAbkDUrDBoA5X99z/giphy.gif)
 
