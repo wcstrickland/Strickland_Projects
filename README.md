@@ -26,7 +26,7 @@ bogged down while creating large insert statements. After casting dtypes and asi
 ![alt text](https://media.giphy.com/media/cYXoBXI8JRL4yeJhpp/giphy.gif)
 
 
----------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 # [Project 3: Rock Paper Scissors Game](https://github.com/wcstrickland/rock_paper_scissors)
 #### A simple graphical game of Rock Paper Scissors.
@@ -44,7 +44,7 @@ This project improved my understanding of:
 ![alt text](https://media.giphy.com/media/5kQYqUcXHCKkGYBQNY/giphy.gif)
 
 
----------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # [Project 4: Web Scraper and REST API](https://github.com/wcstrickland/news_api)
@@ -64,6 +64,8 @@ This project includes:
 
 ![alt text](images/home_page_img.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 # [Project 5: Priority Queue Scheduler](https://github.com/wcstrickland/priorityqueue)
 ## Priorityqueue
 ### Concept
@@ -82,4 +84,6 @@ The program allows the creation of Employees, Jobs, and Priority levels. Jobs ha
 
 #### Sample alert and individual schedule 
 ![alt text](https://github.com/wcstrickland/priorityqueue/blob/main/images/sample%20alert.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 
