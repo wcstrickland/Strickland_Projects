@@ -17,6 +17,16 @@ The program automatically determines column names by reading the first row of th
 or prohibited symbols, and prompts the user to cast data types and name table via CLI.
 The program provides a GUI for selecting the CSV file and database file. 
 The goal of the project was to provide a tool to quickly migrate large amounts of data into a databse where the traditional import tools in database workbenches would become bogged down or fail.
+
+This project improved my understanding of
+- creating a Command Line Interface
+- property decoration
+- generator behavior
+- context managers
+- i/o
+- custom iteration(tools, limits, and pitfalls)
+- utilizing GUI for file-dialog input
+
 ![alt text](https://media.giphy.com/media/cYXoBXI8JRL4yeJhpp/giphy.gif)
 
 
