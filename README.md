@@ -10,13 +10,13 @@ Finally, exported data to tableau and created [interactive dashboard](https://pu
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# [Project 2: Convert CSV file to SQL insert statement](https://github.com/wcstrickland/csv_to_sql)
+# [Project 2: Create databse table from CSV](https://github.com/wcstrickland/csv_to_sql)
 #### A python script that inserts data from a CSV file into a Database.
 
 The program automatically determines column names by reading the first row of the CSV file, attempts to resolve any conflicts with SQL compatibility such as whitespace,
 or prohibited symbols, and prompts the user to cast data types and name table via CLI.
 The program provides a GUI for selecting the CSV file and database file. 
-The goal of the project was to provide a tool to quickly migrate large amounts of data into a databse where the traditional import tools in database workbenches would become bogged down or fail.
+The goal of the project was to provide a tool to quickly migrate large amounts of data into a databse where the traditional import tools in database workbenches would become bogged down or fail. The sample file is a flow cytometry output CSV of over a million rows and almost 20 columns. The file consistently causes the MySQL workbench import wizard to fail. Even after converting the CSV to a a SQL script the process is still unreliable. This program creates a database table and inserts the data in a matter of seconds.
 
 This project improved my understanding of
 - creating a Command Line Interface
