@@ -27,7 +27,7 @@ This project improved my understanding of
 - custom iteration(tools, limits, and pitfalls)
 - utilizing GUI for file-dialog input
 
-![alt text](https://media.giphy.com/media/ycjAKezhlD4dmfz9pE/giphy.gif)
+![alt text](https://media.giphy.com/media/IqKeb1e0qlnZFz9vk9/giphy.gif)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
