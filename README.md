@@ -54,7 +54,7 @@ This project improved my understanding of:
 ##### Part 1
 Created a web scraping program that requests html from a major news outlet and then parses the request return via tags. 
 ##### Part 2
-Created a front facing API that allows users to search the data base with high level of specificity through a series of endpoints. This api supports programming language interaction but can be searched via the URL in the browser by anyone.
+Created a front facing API that allows users to programmatically search the data base with high level of specificity through a series of endpoints, or a simple query string.
 ##### Phase 3 
 Created a simple static html page with  a brief description of the API’s endpoints and provided examples on how to properly use them. 
 This project includes:
