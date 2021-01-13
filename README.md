@@ -61,8 +61,8 @@ Created a simple static html page with  a brief description of the API’s endpo
 This project includes:
 - web scraping and html tags
 - capturing information via python and storing/accessing it in a database.
-- Flask, specifically establishing  a connection to a database, establishing request routes, and defining resources and underlying methods. 
-- Writing raw SQL queries and relating them to python programs. 
+- Web framework principles (Flask) specifically establishing request routes, defining resources, serialization of information, and JSON format.
+- Utilizing a python driver to interface with SQL.
 
 ![alt text](images/home_page_img.png)
 
