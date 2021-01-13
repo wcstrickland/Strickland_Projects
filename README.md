@@ -21,8 +21,8 @@ This project improved my understanding of
 - generator behavior
 - context managers
 - i/o
-- custom iteration(tools, limits, and pitfalls)
-- [utilizing GUI for file-dialog input](images/csv2.png)
+- custom iteration
+- [utilizing GUIs](images/csv2.png)
 
 ![alt text](https://media.giphy.com/media/IqKeb1e0qlnZFz9vk9/giphy.gif)
 
@@ -57,10 +57,11 @@ Created a web scraping program that requests html from a major news outlet and t
 Created a front facing API that allows users to programmatically search the data base with high level of specificity through a series of endpoints, or a simple query string.
 ##### Phase 3 
 Created a simple static html page with  a brief description of the API’s endpoints and provided examples on how to properly use them. 
+
 This project includes:
 - web scraping and html tags
-- outputting python results to a sqlite database
-- Flask, specifically establishing  a connection to a database, establishing @app routes, and defining resources and underlying methods. 
+- capturing information via python and storing/accessing it in a database.
+- Flask, specifically establishing  a connection to a database, establishing request routes, and defining resources and underlying methods. 
 - Writing raw SQL queries and relating them to python programs. 
 
 ![alt text](images/home_page_img.png)
