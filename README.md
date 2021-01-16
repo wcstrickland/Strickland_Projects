@@ -46,9 +46,24 @@ This project improved my understanding of:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
+# [Project 4: RockPaperScissors Javascript edition](https://github.com/wcstrickland/RockPaperScissors)
+
+A simple graphical game of Rock Paper Scissors against a computer. This iteration is created in JavaScript and displayed in the browser. 
+
+The Project includes:
+- Bootstrap
+- Flexbox
+- Event listeners
+- Callback functions
+- Interactive web elements via javascript
+- DOM manipulation.
+
+![alt text](https://media.giphy.com/media/JGXjxr0c0bRPa682fn/giphy.gif)
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# [Project 4: Web Scraper and API](https://github.com/wcstrickland/news_api)
+# [Project 5: Web Scraper and API](https://github.com/wcstrickland/news_api)
 #### A REST API interfacing with a data base of news articles scraped from a website in JSON like format.
 
 ##### Part 1
@@ -68,7 +83,7 @@ This project includes:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# [Project 5: Priority Queue Scheduler](https://github.com/wcstrickland/priorityqueue)
+# [Project 6: Priority Queue Scheduler](https://github.com/wcstrickland/priorityqueue)
 ## Concept
 The program allows the creation of Employees, Jobs, and Priority levels. Jobs have several properties including a priority level, a length of time the job has been listed, and an estimated time the job will take to complete. The program assigns “jobs” to employees always allocating the highest priority level job that has been listed the longest. This system ensures the most important jobs are evenly distributed across employees for simultaneous completion to prevent bottlenecking. Employees are scheduled up until they reach their “max hours” for the day, which may vary if the employee is part-time or working a half-day. A threshold can be set to provide an alert if there are jobs left outstanding in a priority level after scheduling to determine resource management such as authorizing overtime or using temp employees. 
 
