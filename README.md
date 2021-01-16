@@ -48,7 +48,7 @@ This project improved my understanding of:
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# [Project 4: Web Scraper and REST API](https://github.com/wcstrickland/news_api)
+# [Project 4: Web Scraper and API](https://github.com/wcstrickland/news_api)
 #### A REST API interfacing with a data base of news articles scraped from a website in JSON like format.
 
 ##### Part 1
